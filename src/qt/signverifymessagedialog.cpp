@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a GAY Coin address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a PROUD Money address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a GAY Coin address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter GAY Coin signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a PROUD Money address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter PROUD Money signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);
