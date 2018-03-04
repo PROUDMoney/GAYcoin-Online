@@ -330,7 +330,7 @@
                      <enum>Qt::ActionsContextMenu</enum>
                     </property>
                     <property name="text">
-                     <string>0.00 GAY</string>
+                     <string>0.00 PROUD</string>
                     </property>
                     <property name="textInteractionFlags">
                      <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -416,7 +416,7 @@
                      <enum>Qt::ActionsContextMenu</enum>
                     </property>
                     <property name="text">
-                     <string>0.00 GAY</string>
+                     <string>0.00 PROUD</string>
                     </property>
                     <property name="textInteractionFlags">
                      <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -502,7 +502,7 @@
                      <enum>Qt::ActionsContextMenu</enum>
                     </property>
                     <property name="text">
-                     <string>0.00 GAY</string>
+                     <string>0.00 PROUD</string>
                     </property>
                     <property name="textInteractionFlags">
                      <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -534,7 +534,7 @@
                      <enum>Qt::ActionsContextMenu</enum>
                     </property>
                     <property name="text">
-                     <string>0.00 GAY</string>
+                     <string>0.00 PROUD</string>
                     </property>
                     <property name="textInteractionFlags">
                      <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
