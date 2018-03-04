@@ -37,7 +37,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a GAY Coin address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a PROUD Money address (e.g. gayEV8UYEzEFbGKiu9XUhxXvTXyw3qi7zS)"));
 #endif
 
     addEntry();
@@ -462,7 +462,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString & text)
         else if (!CBitcoinAddress(text.toStdString()).IsValid())
         {
             ui->labelCoinControlChangeLabel->setStyleSheet("QLabel{color:red;}");
-            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid GAY Coin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid PROUD Money address"));
         }
         else
         {
