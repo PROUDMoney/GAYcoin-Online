@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "GAY Coin"
-            VALUE "FileDescription",    "GAY Coin-Qt (OSS GUI client for GAY Coin)"
+            VALUE "CompanyName",        "PROUD Money"
+            VALUE "FileDescription",    "PROUD Money-Qt (OSS GUI client for PROUD Money)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "GAY Coin-qt"
+            VALUE "InternalName",       "PROUD Money-qt"
             VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2013 The GAY Coin & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "GAY Coin-qt.exe"
-            VALUE "ProductName",        "GAY Coin-Qt"
+            VALUE "OriginalFilename",   "PROUD Money-qt.exe"
+            VALUE "ProductName",        "PROUD Money-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
