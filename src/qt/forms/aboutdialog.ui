@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>About GAY Coin</string>
+   <string>About PROUD Money</string>
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
@@ -50,7 +50,7 @@
           <cursorShape>IBeamCursor</cursorShape>
          </property>
          <property name="text">
-          <string>&lt;b&gt;GAY Coin&lt;/b&gt; version</string>
+          <string>&lt;b&gt;PROUD Money&lt;/b&gt; version</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -91,7 +91,7 @@
         <cursorShape>IBeamCursor</cursorShape>
        </property>
        <property name="text">
-        <string>Copyright © 2014-2018 GAY Money - www.gay.money
+        <string>Copyright © 2014-2018 PROUD Money - www.proud.money
 Copyright © 2017-2018 www.gay.foundation</string>
        </property>
        <property name="textInteractionFlags">
