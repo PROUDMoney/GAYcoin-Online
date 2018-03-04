@@ -50,7 +50,7 @@
              <item>
               <widget class="QLabel" name="labelWalletStatus">
                <property name="toolTip">
-                <string>The displayed information may be out of date. Your wallet automatically synchronizes with the GAY Money network after a connection is established, but this process has not completed yet.</string>
+                <string>The displayed information may be out of date. Your wallet automatically synchronizes with the PROUD Money network after a connection is established, but this process has not completed yet.</string>
                </property>
                <property name="styleSheet">
                 <string notr="true">QLabel { color: red; }</string>
@@ -111,7 +111,7 @@
                 <string>Your current spendable balance</string>
                </property>
                <property name="text">
-                <string notr="true">0 GAY</string>
+                <string notr="true">0 PROUD</string>
                </property>
                <property name="textInteractionFlags">
                 <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -140,7 +140,7 @@
                 <string>Total of coins that was staked, and do not yet count toward the current balance</string>
                </property>
                <property name="text">
-                <string notr="true">0 GAY</string>
+                <string notr="true">0 PROUD</string>
                </property>
                <property name="textInteractionFlags">
                 <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -169,7 +169,7 @@
                 <string>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</string>
                </property>
                <property name="text">
-                <string notr="true">0 GAY</string>
+                <string notr="true">0 PROUD</string>
                </property>
                <property name="textInteractionFlags">
                 <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -195,7 +195,7 @@
                 <string>Mined balance that has not yet matured</string>
                </property>
                <property name="text">
-                <string notr="true">0 GAY</string>
+                <string notr="true">0 PROUD</string>
                </property>
                <property name="textInteractionFlags">
                 <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -237,7 +237,7 @@
                 <string>Your current total balance</string>
                </property>
                <property name="text">
-                <string notr="true">0 GAY</string>
+                <string notr="true">0 PROUD</string>
                </property>
                <property name="textInteractionFlags">
                 <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -300,7 +300,7 @@
              <item>
               <widget class="QLabel" name="labelTransactionsStatus">
                <property name="toolTip">
-                <string>The displayed information may be out of date. Your wallet automatically synchronizes with the GAY Money network after a connection is established, but this process has not completed yet.</string>
+                <string>The displayed information may be out of date. Your wallet automatically synchronizes with the PROUD Money network after a connection is established, but this process has not completed yet.</string>
                </property>
                <property name="styleSheet">
                 <string notr="true">QLabel { color: red; }</string>
