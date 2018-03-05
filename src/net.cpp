@@ -1139,15 +1139,15 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
- {"seed01.gay.money", "seed01.gay.money"},
- {"seed02.gay.money", "seed02.gay.money"},
- {"seed03.gay.money", "seed03.gay.money"},
- {"seed04.gay.money", "seed04.gay.money"},
- {"seed05.gay.money", "seed05.gay.money"},
- {"seed06.gay.money", "seed06.gay.money"},
- {"seed07.gay.money", "seed07.gay.money"},
- {"seed08.gay.money", "seed08.gay.money"},
- {"seed09.gay.money", "seed09.gay.money"},
+ {"seed01.proud.money", "seed01.proud.money"},
+ {"seed02.proud.money", "seed02.proud.money"},
+ {"seed03.proud.money", "seed03.proud.money"},
+ {"seed04.proud.money", "seed04.proud.money"},
+ {"seed05.proud.money", "seed05.proud.money"},
+ {"seed06.proud.money", "seed06.proud.money"},
+ {"seed07.proud.money", "seed07.proud.money"},
+ {"seed08.proud.money", "seed08.proud.money"},
+ {"seed09.proud.money", "seed09.proud.money"},
  {"91.121.67.93", "91.121.67.93"},
  {"138.68.237.158", "138.68.237.158"},
  {"91.109.38.231", "91.109.38.231"}
