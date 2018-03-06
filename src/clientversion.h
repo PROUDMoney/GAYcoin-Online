@@ -12,7 +12,7 @@
 #define CLIENT_VERSION_BUILD       0
 
 
-#define COPYRIGHT_YEAR 2017
+#define COPYRIGHT_YEAR 2018
 
 // Converts the parameter X to a string after macro replacement on X has been performed.
 // Don't merge these into one macro!
